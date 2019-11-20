@@ -1,365 +1,365 @@
 {
-  "premios": [
+  "rewards": [
     {
       "id": 1,
-      "titulo": "Premio 1",
-      "categoria": {
+      "title": "Premio 1",
+      "category": {
         "id":1,
-        "titulo": "categoria 1"
+        "title": "categoria 1"
       },
-      "subcategoria": {
+      "subcategory": {
         "id":1,
-        "titulo": "subcategoria 1"
+        "title": "subcategoria 1"
       },
       "proveedor": {
         "id":1,
-        "titulo": "proveedor 1"
+        "title": "proveedor 1"
       },
-      "imagen": "https://image.flaticon.com/icons/png/512/121/121693.png",
-      "desde": "2019-11-01",
-      "hasta": "2019-11-30"
+      "image": "https://image.flaticon.com/icons/png/512/121/121693.png",
+      "validityFrom": "2019-11-01",
+      "validityTo": "2019-11-30"
     },
      {
       "id": 2,
-      "titulo": "Premio 2",
-      "categoria": {
+      "title": "Premio 2",
+      "category": {
         "id":2,
-        "titulo": "categoria 2"
+        "title": "categoria 2"
       },
-      "subcategoria": {
+      "subcategory": {
         "id":2,
-        "titulo": "subcategoria 2"
+        "title": "subcategoria 2"
       },
       "proveedor": {
         "id":2,
-        "titulo": "proveedor 2"
+        "title": "proveedor 2"
       },
-      "imagen": "https://image.flaticon.com/icons/png/512/57/57134.png",
-      "desde": "2019-11-02",
-      "hasta": "2019-11-30"
+      "image": "https://image.flaticon.com/icons/png/512/57/57134.png",
+      "validityFrom": "2019-11-02",
+      "validityTo": "2019-11-30"
     },
      {
       "id": 3,
-      "titulo": "Premio 3",
-      "categoria": {
+      "title": "Premio 3",
+      "category": {
         "id":3,
-        "titulo": "categoria 3"
+        "title": "categoria 3"
       },
-      "subcategoria": {
+      "subcategory": {
         "id":3,
-        "titulo": "subcategoria 3"
+        "title": "subcategoria 3"
       },
       "proveedor": {
         "id":3,
-        "titulo": "proveedor 3"
+        "title": "proveedor 3"
       },
-      "imagen": "https://image.flaticon.com/icons/png/512/33/33750.png",
-      "desde": "2019-11-03",
-      "hasta": "2019-12-30"
+      "image": "https://image.flaticon.com/icons/png/512/33/33750.png",
+      "validityFrom": "2019-11-03",
+      "validityTo": "2019-12-30"
     },
      {
       "id": 4,
-      "titulo": "Premio 4",
-      "categoria": {
+      "title": "Premio 4",
+      "category": {
         "id":4,
-        "titulo": "categoria 4"
+        "title": "categoria 4"
       },
-      "subcategoria": {
+      "subcategory": {
         "id":4,
-        "titulo": "subcategoria 4"
+        "title": "subcategoria 4"
       },
       "proveedor": {
         "id":4,
-        "titulo": "proveedor 4"
+        "title": "proveedor 4"
       },
-      "imagen": "https://image.flaticon.com/icons/png/512/10/10527.png",
-      "desde": "2019-11-01",
-      "hasta": "2019-11-30"
+      "image": "https://image.flaticon.com/icons/png/512/10/10527.png",
+      "validityFrom": "2019-11-01",
+      "validityTo": "2019-11-30"
     },
     {
       "id": 5,
-      "titulo": "Premio 5",
-      "categoria": {
+      "title": "Premio 5",
+      "category": {
         "id":5,
-        "titulo": "categoria 5"
+        "title": "categoria 5"
       },
-      "subcategoria": {
+      "subcategory": {
         "id":5,
-        "titulo": "subcategoria 5"
+        "title": "subcategoria 5"
       },
       "proveedor": {
         "id":5,
-        "titulo": "proveedor 5"
+        "title": "proveedor 5"
       },
-      "imagen": "https://image.flaticon.com/icons/png/512/53/53176.png",
-      "desde": "2019-12-01",
-      "hasta": "2020-01-30"
+      "image": "https://image.flaticon.com/icons/png/512/53/53176.png",
+      "validityFrom": "2019-12-01",
+      "validityTo": "2020-01-30"
     },
     {
       "id": 6,
-      "titulo": "Premio 6",
-      "categoria": {
+      "title": "Premio 6",
+      "category": {
         "id":4,
-        "titulo": "categoria 4"
+        "title": "categoria 4"
       },
-      "subcategoria": {
+      "subcategory": {
         "id":4,
-        "titulo": "subcategoria 4"
+        "title": "subcategoria 4"
       },
       "proveedor": {
         "id":6,
-        "titulo": "proveedor 6"
+        "title": "proveedor 6"
       },
-      "imagen": "https://image.flaticon.com/icons/png/512/10/10527.png",
-      "desde": "2019-11-01",
-      "hasta": "2019-11-30"
+      "image": "https://image.flaticon.com/icons/png/512/10/10527.png",
+      "validityFrom": "2019-11-01",
+      "validityTo": "2019-11-30"
     },
     {
       "id": 7,
-      "titulo": "Premio 7",
-      "categoria": {
+      "title": "Premio 7",
+      "category": {
         "id":5,
-        "titulo": "categoria 5"
+        "title": "categoria 5"
       },
-      "subcategoria": {
+      "subcategory": {
         "id":5,
-        "titulo": "subcategoria 5"
+        "title": "subcategoria 5"
       },
       "proveedor": {
         "id":4,
-        "titulo": "proveedor 4"
+        "title": "proveedor 4"
       },
-      "imagen": "https://image.flaticon.com/icons/png/512/10/10527.png",
-      "desde": "2019-11-01",
-      "hasta": "2019-11-30"
+      "image": "https://image.flaticon.com/icons/png/512/10/10527.png",
+      "validityFrom": "2019-11-01",
+      "validityTo": "2019-11-30"
     },
     {
       "id": 8,
-      "titulo": "Premio 8",
-      "categoria": {
+      "title": "Premio 8",
+      "category": {
         "id":7,
-        "titulo": "categoria 7"
+        "title": "categoria 7"
       },
-      "subcategoria": {
+      "subcategory": {
         "id":7,
-        "titulo": "subcategoria 7"
+        "title": "subcategoria 7"
       },
       "proveedor": {
         "id":8,
-        "titulo": "proveedor 8"
+        "title": "proveedor 8"
       },
-      "imagen": "https://image.flaticon.com/icons/png/512/56/56863.png",
-      "desde": "2019-11-01",
-      "hasta": "2020-11-30"
+      "image": "https://image.flaticon.com/icons/png/512/56/56863.png",
+      "validityFrom": "2019-11-01",
+      "validityTo": "2020-11-30"
     },
     {
       "id": 9,
-      "titulo": "Premio 9",
-      "categoria": {
+      "title": "Premio 9",
+      "category": {
         "id":4,
-        "titulo": "categoria 4"
+        "title": "categoria 4"
       },
-      "subcategoria": {
+      "subcategory": {
         "id":4,
-        "titulo": "subcategoria 4"
+        "title": "subcategoria 4"
       },
       "proveedor": {
         "id":4,
-        "titulo": "proveedor 4"
+        "title": "proveedor 4"
       },
-      "imagen": "https://image.flaticon.com/icons/png/512/40/40809.png",
-      "desde": "2019-11-01",
-      "hasta": "2019-11-30"
+      "image": "https://image.flaticon.com/icons/png/512/40/40809.png",
+      "validityFrom": "2019-11-01",
+      "validityTo": "2019-11-30"
     },
     {
       "id": 10,
-      "titulo": "Premio 10",
-      "categoria": {
+      "title": "Premio 10",
+      "category": {
         "id":10,
-        "titulo": "categoria 10"
+        "title": "categoria 10"
       },
-      "subcategoria": {
+      "subcategory": {
         "id":4,
-        "titulo": "subcategoria 4"
+        "title": "subcategoria 4"
       },
       "proveedor": {
         "id":5,
-        "titulo": "proveedor 5"
+        "title": "proveedor 5"
       },
-      "imagen": "https://image.flaticon.com/icons/png/512/57/57159.png",
-      "desde": "2019-11-01",
-      "hasta": "2019-11-30"
+      "image": "https://image.flaticon.com/icons/png/512/57/57159.png",
+      "validityFrom": "2019-11-01",
+      "validityTo": "2019-11-30"
     },
     {
       "id": 11,
-      "titulo": "Premio 11",
-      "categoria": {
+      "title": "Premio 11",
+      "category": {
         "id":4,
-        "titulo": "categoria 4"
+        "title": "categoria 4"
       },
-      "subcategoria": {
+      "subcategory": {
         "id":7,
-        "titulo": "subcategoria 7"
+        "title": "subcategoria 7"
       },
       "proveedor": {
         "id":8,
-        "titulo": "proveedor 8"
+        "title": "proveedor 8"
       },
-      "imagen": "https://image.flaticon.com/icons/png/512/94/94749.png",
-      "desde": "2019-11-01",
-      "hasta": "2020-11-30"
+      "image": "https://image.flaticon.com/icons/png/512/94/94749.png",
+      "validityFrom": "2019-11-01",
+      "validityTo": "2020-11-30"
     },
     {
       "id": 12,
-      "titulo": "Premio 12",
-      "categoria": {
+      "title": "Premio 12",
+      "category": {
         "id":12,
-        "titulo": "categoria 12"
+        "title": "categoria 12"
       },
-      "subcategoria": {
+      "subcategory": {
         "id":12,
-        "titulo": "subcategoria 12"
+        "title": "subcategoria 12"
       },
       "proveedor": {
         "id":4,
-        "titulo": "proveedor 4"
+        "title": "proveedor 4"
       },
-      "imagen": "https://image.flaticon.com/icons/png/512/115/115547.png",
-      "desde": "2019-11-01",
-      "hasta": "2019-11-30"
+      "image": "https://image.flaticon.com/icons/png/512/115/115547.png",
+      "validityFrom": "2019-11-01",
+      "validityTo": "2019-11-30"
     },
     {
       "id": 13,
-      "titulo": "Premio 13",
-      "categoria": {
+      "title": "Premio 13",
+      "category": {
         "id":4,
-        "titulo": "categoria 4"
+        "title": "categoria 4"
       },
-      "subcategoria": {
+      "subcategory": {
         "id":4,
-        "titulo": "subcategoria 4"
+        "title": "subcategoria 4"
       },
       "proveedor": {
         "id":4,
-        "titulo": "proveedor 4"
+        "title": "proveedor 4"
       },
-      "imagen": "https://image.flaticon.com/icons/png/512/50/50581.png",
-      "desde": "2019-11-01",
-      "hasta": "2030-08-30"
+      "image": "https://image.flaticon.com/icons/png/512/50/50581.png",
+      "validityFrom": "2019-11-01",
+      "validityTo": "2030-08-30"
     },
     {
       "id": 14,
-      "titulo": "Premio 14",
-      "categoria": {
+      "title": "Premio 14",
+      "category": {
         "id":4,
-        "titulo": "categoria 4"
+        "title": "categoria 4"
       },
-      "subcategoria": {
+      "subcategory": {
         "id":4,
-        "titulo": "subcategoria 4"
+        "title": "subcategoria 4"
       },
       "proveedor": {
         "id":1,
-        "titulo": "proveedor 1"
+        "title": "proveedor 1"
       },
-      "imagen": "https://image.flaticon.com/icons/png/512/52/52482.png",
-      "desde": "2019-11-01",
-      "hasta": "2019-11-30"
+      "image": "https://image.flaticon.com/icons/png/512/52/52482.png",
+      "validityFrom": "2019-11-01",
+      "validityTo": "2019-11-30"
     },
     {
       "id": 15,
-      "titulo": "Premio 15",
-      "categoria": {
+      "title": "Premio 15",
+      "category": {
         "id":5,
-        "titulo": "categoria 5"
+        "title": "categoria 5"
       },
-      "subcategoria": {
+      "subcategory": {
         "id":4,
-        "titulo": "subcategoria 4"
+        "title": "subcategoria 4"
       },
       "proveedor": {
         "id":2,
-        "titulo": "proveedor 2"
+        "title": "proveedor 2"
       },
-      "imagen": "https://image.flaticon.com/icons/png/512/115/115559.png",
-      "desde": "2019-11-01",
-      "hasta": "2030-11-30"
+      "image": "https://image.flaticon.com/icons/png/512/115/115559.png",
+      "validityFrom": "2019-11-01",
+      "validityTo": "2030-11-30"
     },
     {
       "id": 16,
-      "titulo": "Premio 16",
-      "categoria": {
+      "title": "Premio 16",
+      "category": {
         "id":4,
-        "titulo": "categoria 4"
+        "title": "categoria 4"
       },
-      "subcategoria": {
+      "subcategory": {
         "id":1,
-        "titulo": "subcategoria 1"
+        "title": "subcategoria 1"
       },
       "proveedor": {
         "id":4,
-        "titulo": "proveedor 4"
+        "title": "proveedor 4"
       },
-      "imagen": "https://image.flaticon.com/icons/png/512/115/115559.png",
-      "desde": "2019-11-01",
-      "hasta": "2019-11-30"
+      "image": "https://image.flaticon.com/icons/png/512/115/115559.png",
+      "validityFrom": "2019-11-01",
+      "validityTo": "2019-11-30"
     },
     {
       "id": 17,
-      "titulo": "Premio 17",
-      "categoria": {
+      "title": "Premio 17",
+      "category": {
         "id":4,
-        "titulo": "categoria 4"
+        "title": "categoria 4"
       },
-      "subcategoria": {
+      "subcategory": {
         "id":3,
-        "titulo": "subcategoria 3"
+        "title": "subcategoria 3"
       },
       "proveedor": {
         "id":4,
-        "titulo": "proveedor 4"
+        "title": "proveedor 4"
       },
-      "imagen": "https://image.flaticon.com/icons/png/512/41/41435.png",
-      "desde": "2019-11-01",
-      "hasta": "2019-11-30"
+      "image": "https://image.flaticon.com/icons/png/512/41/41435.png",
+      "validityFrom": "2019-11-01",
+      "validityTo": "2019-11-30"
     },
     {
       "id": 18,
-      "titulo": "Premio 18",
-      "categoria": {
+      "title": "Premio 18",
+      "category": {
         "id":5,
-        "titulo": "categoria 5"
+        "title": "categoria 5"
       },
-      "subcategoria": {
+      "subcategory": {
         "id":3,
-        "titulo": "subcategoria 3"
+        "title": "subcategoria 3"
       },
       "proveedor": {
         "id":8,
-        "titulo": "proveedor 8"
+        "title": "proveedor 8"
       },
-      "imagen": "https://image.flaticon.com/icons/png/512/91/91146.png",
-      "desde": "2019-11-01",
-      "hasta": "2019-11-30"
+      "image": "https://image.flaticon.com/icons/png/512/91/91146.png",
+      "validityFrom": "2019-11-01",
+      "validityTo": "2019-11-30"
     },
     {
       "id": 19,
-      "titulo": "Premio 19",
-      "categoria": {
+      "title": "Premio 19",
+      "category": {
         "id":4,
-        "titulo": "categoria 4"
+        "title": "categoria 4"
       },
-      "subcategoria": {
+      "subcategory": {
         "id":3,
-        "titulo": "subcategoria 3"
+        "title": "subcategoria 3"
       },
       "proveedor": {
         "id":4,
-        "titulo": "proveedor 4"
+        "title": "proveedor 4"
       },
-      "imagen": "https://image.flaticon.com/icons/png/512/91/91123.png",
-      "desde": "2019-11-01",
-      "hasta": "2040-01-30"
+      "image": "https://image.flaticon.com/icons/png/512/91/91123.png",
+      "validityFrom": "2019-11-01",
+      "validityTo": "2040-01-30"
     }
   ]
 }
