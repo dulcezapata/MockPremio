@@ -15,7 +15,7 @@
         "id":1,
         "titulo": "proveedor 1"
       },
-      "imagen": "http://iconos.gratis.es/emojis-personas/chico-de-azul-saludando.jpg",
+      "imagen": "https://image.flaticon.com/icons/png/512/121/121693.png",
       "desde": "2019-11-01",
       "hasta": "2019-11-30"
     },
@@ -34,7 +34,7 @@
         "id":2,
         "titulo": "proveedor 2"
       },
-      "imagen": "http://iconos.gratis.es/emojis-personas/chico-de-verde-saludando.jpg",
+      "imagen": "https://image.flaticon.com/icons/png/512/57/57134.png",
       "desde": "2019-11-02",
       "hasta": "2019-11-30"
     },
@@ -53,7 +53,7 @@
         "id":3,
         "titulo": "proveedor 3"
       },
-      "imagen": "http://iconos.gratis.es/emojis-personas/chico-rubio-saludando.jpg",
+      "imagen": "https://image.flaticon.com/icons/png/512/33/33750.png",
       "desde": "2019-11-03",
       "hasta": "2019-12-30"
     },
@@ -72,7 +72,7 @@
         "id":4,
         "titulo": "proveedor 4"
       },
-      "imagen": "http://iconos.gratis.es/emojis-personas/chico-de-azul-saludando.jpg",
+      "imagen": "https://image.flaticon.com/icons/png/512/10/10527.png",
       "desde": "2019-11-01",
       "hasta": "2019-11-30"
     }
