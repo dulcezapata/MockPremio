@@ -1,0 +1,44 @@
+{
+  "premios": [
+    {
+      "id": 1,
+      "titulo": "Premio 1",
+      "categoria": "categoria 1",
+      "subcategoria": "subcategoria 1",
+      "proveedor": "proveedor 1",
+      "imagen": "imagen 1",
+      "desde": "desde 1",
+      "hasta": "hasta 1"
+    },
+    {
+      "id": 2,
+      "titulo": "Premio 2",
+      "categoria": "categoria 2",
+      "subcategoria": "subcategoria 2",
+      "proveedor": "proveedor 2",
+      "imagen": "imagen 2",
+      "desde": "desde 2",
+      "hasta": "hasta 2"
+    },
+    {
+      "id": 3,
+      "titulo": "Premio 3",
+      "categoria": "categoria 3",
+      "subcategoria": "subcategoria 3",
+      "proveedor": "proveedor 3",
+      "imagen": "imagen 3",
+      "desde": "desde 3",
+      "hasta": "hasta 3"
+    },
+    {
+      "id": 4,
+      "titulo": "Premio 4",
+      "categoria": "categoria 4",
+      "subcategoria": "subcategoria 4",
+      "proveedor": "proveedor 4",
+      "imagen": "imagen 4",
+      "desde": "desde 4",
+      "hasta": "hasta 4"
+    }
+  ]
+}
