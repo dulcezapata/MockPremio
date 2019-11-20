@@ -11,7 +11,7 @@
         "id":1,
         "title": "subcategoria 1"
       },
-      "proveedor": {
+      "provider": {
         "id":1,
         "title": "proveedor 1"
       },
@@ -30,7 +30,7 @@
         "id":2,
         "title": "subcategoria 2"
       },
-      "proveedor": {
+      "provider": {
         "id":2,
         "title": "proveedor 2"
       },
@@ -49,7 +49,7 @@
         "id":3,
         "title": "subcategoria 3"
       },
-      "proveedor": {
+      "provider": {
         "id":3,
         "title": "proveedor 3"
       },
@@ -68,7 +68,7 @@
         "id":4,
         "title": "subcategoria 4"
       },
-      "proveedor": {
+      "provider": {
         "id":4,
         "title": "proveedor 4"
       },
@@ -87,7 +87,7 @@
         "id":5,
         "title": "subcategoria 5"
       },
-      "proveedor": {
+      "provider": {
         "id":5,
         "title": "proveedor 5"
       },
@@ -106,7 +106,7 @@
         "id":4,
         "title": "subcategoria 4"
       },
-      "proveedor": {
+      "provider": {
         "id":6,
         "title": "proveedor 6"
       },
@@ -125,7 +125,7 @@
         "id":5,
         "title": "subcategoria 5"
       },
-      "proveedor": {
+      "provider": {
         "id":4,
         "title": "proveedor 4"
       },
@@ -144,7 +144,7 @@
         "id":7,
         "title": "subcategoria 7"
       },
-      "proveedor": {
+      "provider": {
         "id":8,
         "title": "proveedor 8"
       },
@@ -163,7 +163,7 @@
         "id":4,
         "title": "subcategoria 4"
       },
-      "proveedor": {
+      "provider": {
         "id":4,
         "title": "proveedor 4"
       },
@@ -182,7 +182,7 @@
         "id":4,
         "title": "subcategoria 4"
       },
-      "proveedor": {
+      "provider": {
         "id":5,
         "title": "proveedor 5"
       },
@@ -201,7 +201,7 @@
         "id":7,
         "title": "subcategoria 7"
       },
-      "proveedor": {
+      "provider": {
         "id":8,
         "title": "proveedor 8"
       },
@@ -220,7 +220,7 @@
         "id":12,
         "title": "subcategoria 12"
       },
-      "proveedor": {
+      "provider": {
         "id":4,
         "title": "proveedor 4"
       },
@@ -239,7 +239,7 @@
         "id":4,
         "title": "subcategoria 4"
       },
-      "proveedor": {
+      "provider": {
         "id":4,
         "title": "proveedor 4"
       },
@@ -258,7 +258,7 @@
         "id":4,
         "title": "subcategoria 4"
       },
-      "proveedor": {
+      "provider": {
         "id":1,
         "title": "proveedor 1"
       },
@@ -277,7 +277,7 @@
         "id":4,
         "title": "subcategoria 4"
       },
-      "proveedor": {
+      "provider": {
         "id":2,
         "title": "proveedor 2"
       },
@@ -296,7 +296,7 @@
         "id":1,
         "title": "subcategoria 1"
       },
-      "proveedor": {
+      "provider": {
         "id":4,
         "title": "proveedor 4"
       },
@@ -315,7 +315,7 @@
         "id":3,
         "title": "subcategoria 3"
       },
-      "proveedor": {
+      "provider": {
         "id":4,
         "title": "proveedor 4"
       },
@@ -334,7 +334,7 @@
         "id":3,
         "title": "subcategoria 3"
       },
-      "proveedor": {
+      "provider": {
         "id":8,
         "title": "proveedor 8"
       },
@@ -353,7 +353,7 @@
         "id":3,
         "title": "subcategoria 3"
       },
-      "proveedor": {
+      "provider": {
         "id":4,
         "title": "proveedor 4"
       },
