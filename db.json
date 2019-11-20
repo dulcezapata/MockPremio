@@ -3,42 +3,78 @@
     {
       "id": 1,
       "titulo": "Premio 1",
-      "categoria": "categoria 1",
-      "subcategoria": "subcategoria 1",
-      "proveedor": "proveedor 1",
-      "imagen": "imagen 1",
-      "desde": "desde 1",
-      "hasta": "hasta 1"
+      "categoria": {
+        "id":1,
+        "titulo": "categoria 1"
+      },
+      "subcategoria": {
+        "id":1,
+        "titulo": "subcategoria 1"
+      },
+      "proveedor": {
+        "id":1,
+        "titulo": "proveedor 1"
+      },
+      "imagen": "http://iconos.gratis.es/emojis-personas/chico-de-azul-saludando.jpg",
+      "desde": "2019-11-01",
+      "hasta": "2019-11-30"
     },
-    {
+     {
       "id": 2,
       "titulo": "Premio 2",
-      "categoria": "categoria 2",
-      "subcategoria": "subcategoria 2",
-      "proveedor": "proveedor 2",
-      "imagen": "imagen 2",
-      "desde": "desde 2",
-      "hasta": "hasta 2"
+      "categoria": {
+        "id":2,
+        "titulo": "categoria 2"
+      },
+      "subcategoria": {
+        "id":2,
+        "titulo": "subcategoria 2"
+      },
+      "proveedor": {
+        "id":2,
+        "titulo": "proveedor 2"
+      },
+      "imagen": "http://iconos.gratis.es/emojis-personas/chico-de-verde-saludando.jpg",
+      "desde": "2019-11-02",
+      "hasta": "2019-11-30"
     },
-    {
+     {
       "id": 3,
       "titulo": "Premio 3",
-      "categoria": "categoria 3",
-      "subcategoria": "subcategoria 3",
-      "proveedor": "proveedor 3",
-      "imagen": "imagen 3",
-      "desde": "desde 3",
-      "hasta": "hasta 3"
+      "categoria": {
+        "id":3,
+        "titulo": "categoria 3"
+      },
+      "subcategoria": {
+        "id":3,
+        "titulo": "subcategoria 3"
+      },
+      "proveedor": {
+        "id":3,
+        "titulo": "proveedor 3"
+      },
+      "imagen": "http://iconos.gratis.es/emojis-personas/chico-rubio-saludando.jpg",
+      "desde": "2019-11-03",
+      "hasta": "2019-12-30"
     },
-    {
+     {
       "id": 4,
       "titulo": "Premio 4",
-      "categoria": "categoria 4",
-      "subcategoria": "subcategoria 4",
-      "proveedor": "proveedor 4",
-      "imagen": "imagen 4",
-      "desde": "desde 4",
-      "hasta": "hasta 4"
+      "categoria": {
+        "id":4,
+        "titulo": "categoria 4"
+      },
+      "subcategoria": {
+        "id":4,
+        "titulo": "subcategoria 4"
+      },
+      "proveedor": {
+        "id":4,
+        "titulo": "proveedor 4"
+      },
+      "imagen": "http://iconos.gratis.es/emojis-personas/chico-de-azul-saludando.jpg",
+      "desde": "2019-11-01",
+      "hasta": "2019-11-30"
     }
   ]
 }
